@@ -31,13 +31,7 @@ src="https://streak-stats.demolab.com?user=Nazia012&theme=tokyonight&hide_border
 
 <br><br>
 
-<img 
-src="https://github-profile-trophy.vercel.app/?username=Nazia012&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=15"
-/>
-
-<br><br>
-
-```text
+```text id="nnkkwi"
 building quietly.
 learning deeply.
 creating intentionally.
