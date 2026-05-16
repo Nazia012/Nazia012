@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Nazia012/Nazia012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nazya
 
-Here are some ideas to get you started:
+multidisciplinary creative
+exploring artificial intelligence, web experiences, and thoughtful design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+currently learning
+
+`ai/ml` `dsa` `numpy` `pandas` `web dev`
+
+<br>
+
+### tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,vscode" />
+</p>
+
+<br>
+
+### currently
+
+building, learning, and experimenting one project at a time
+
+<br>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nazia012&show_icons=true&hide_border=true&title_color=8b6f69&text_color=b0b0b0&icon_color=8b6f69&bg_color=00000000" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Nazia012&hide_border=true&background=00000000&ring=8b6f69&fire=8b6f69&currStreakLabel=b0b0b0" />
+</p>
+
+<br>
+
+[discord](https://discord.com/)
+
+</div>
