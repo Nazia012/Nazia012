@@ -1,44 +1,50 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:1e293b,100:111827&section=header"/>
+
 # Nazya
 
-multidisciplinary creative
-exploring artificial intelligence, web experiences, and thoughtful design
+multidisciplinary creative exploring
+artificial intelligence, systems, and digital experiences
 
 <br>
 
-currently learning
+`ai/ml` • `dsa` • `numpy` • `pandas` • `web dev`
 
-`ai/ml` `dsa` `numpy` `pandas` `web dev`
+<br><br>
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,vscode" />
 
-### tech stack
+<br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,vscode" />
-</p>
-
-<br>
-
-### currently
-
-building, learning, and experimenting python and cs50 projects
+<img 
+height="165"
+src="https://github-readme-stats.vercel.app/api?username=Nazia012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=f0abfc&text_color=d4d4d8"
+/>
 
 <br>
 
-<p>
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Nazia012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d8b4fe&icon_color=f9a8d4&text_color=c9d1d9"
-  />
-</p>
+<img 
+height="165"
+src="https://streak-stats.demolab.com?user=Nazia012&theme=tokyonight&hide_border=true&background=0d1117&ring=c4b5fd&fire=f0abfc&currStreakLabel=ffffff&sideNums=d4d4d8&currStreakNum=ffffff&dates=71717a"
+/>
 
-<p>
-  <img 
-    height="170"
-    src="https://streak-stats.demolab.com?user=Nazia012&theme=tokyonight&hide_border=true&background=0d1117&ring=d8b4fe&fire=f9a8d4&currStreakLabel=ffffff&sideNums=c9d1d9&currStreakNum=ffffff&dates=8b949e"
-  />
-</p>
+<br><br>
+
+<img 
+src="https://github-profile-trophy.vercel.app/?username=Nazia012&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=15"
+/>
+
+<br><br>
+
+```text
+building quietly.
+learning deeply.
+creating intentionally.
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111827,50:1e293b,100:0f172a&section=footer"/>
 
 </div>
