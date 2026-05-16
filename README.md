@@ -23,7 +23,7 @@ currently learning
 
 ### currently
 
-building, learning, and experimenting one project at a time
+building, learning, and experimenting python and cs50 projects
 
 <br>
 
