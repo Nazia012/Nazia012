@@ -28,11 +28,17 @@ building, learning, and experimenting one project at a time
 <br>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nazia012&show_icons=true&hide_border=true&title_color=c9a9a6&text_color=d6d6d6&icon_color=89a399&bg_color=00000000" />
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Nazia012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d8b4fe&icon_color=f9a8d4&text_color=c9d1d9"
+  />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=Nazia012&hide_border=true&background=00000000&ring=89a399&fire=c9a9a6&currStreakLabel=d6d6d6&sideLabels=d6d6d6&dates=8f8f8f" />
+  <img 
+    height="170"
+    src="https://streak-stats.demolab.com?user=Nazia012&theme=tokyonight&hide_border=true&background=0d1117&ring=d8b4fe&fire=f9a8d4&currStreakLabel=ffffff&sideNums=c9d1d9&currStreakNum=ffffff&dates=8b949e"
+  />
 </p>
 
 </div>
